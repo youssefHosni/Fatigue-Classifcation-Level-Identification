@@ -6,3 +6,5 @@ The following pipeline is followed (still in progress):
 * Image preprocesing 
 * Landmark labeling using Imaglab
 * Face alignment using MTCNN 
+* Baseline classfication using pretrained based CNN models such as Mobilenet, Resnet, VGG
+* Advanced vidoe classifcation using MTV (Multiview transfomrers for video classifcation)
